@@ -1,6 +1,6 @@
 # CustomGamemodesTemplate
 
-The tag is the Plugin.cs
+The tag is the Plugin.cs and the dll
 
 This is for people who want to make there own custom gamemode.
 
